@@ -60,7 +60,7 @@ for (let i = 0; i < valores.length; i++) {
 console.log(valores); 
 
 */
-/*
+/*7
 
 let notas = [8, 7, 9, 10, 6];
 let suma = 0;
