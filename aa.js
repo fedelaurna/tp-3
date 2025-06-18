@@ -32,7 +32,7 @@ let datos = [3, 6, 1, 8];
 let resultado= [];
 
 for (let i = 0; i < datos.length; i++) {
-    resultado.push(datos[i]*2);
+ datos[i] = datos[i] *2;
 }
 
 console.log(resultado);
