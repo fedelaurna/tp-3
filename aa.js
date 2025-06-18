@@ -52,7 +52,7 @@ if (alumnos.includes(nombreBuscado)) {
 let valores = [5, 0, 8, 0, 2];
 
 for (let i = 0; i < valores.length; i++) {
-    if (valores[i] === 0) {
+    if (valores[i] == 0) {
         valores[i] = 100;
     }
 }
